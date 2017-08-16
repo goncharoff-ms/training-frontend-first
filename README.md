@@ -1,4 +1,4 @@
 # FirstTestProjectFrontend
-in command line:
-$gulp - start \n
-$gulp clean - remove build folder \n
+in command line: <br/>
+$gulp - start <br/>
+$gulp clean - remove build folder <br/>
